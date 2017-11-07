@@ -1,0 +1,17 @@
+[
+    {
+        "nome":"Renan",
+        "id":1,
+        "classe" : "A"
+    },
+    {
+        "nome":"Mateus",
+        "id":2,
+        "classe" : "C"
+    },
+    {
+        "nome":"Debiora",
+        "id":3,
+        "classe" : "B"
+    }
+]

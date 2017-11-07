@@ -1,0 +1,27 @@
+[
+    {
+        "nome":"Bruno",
+        "id":1,
+        "classe" : "A"
+    },
+    {
+        "nome":"João",
+        "id":2,
+        "classe" : "A"
+    },
+    {
+        "nome":"Tiago",
+        "id":3,
+        "classe" : "B"
+    },
+    {
+        "nome":"Fernandes",
+        "id":4,
+        "classe" : "B"
+    },
+    {
+        "nome":"Pedro",
+        "id":5,
+        "classe" : "C"
+    }
+]
